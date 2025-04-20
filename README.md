@@ -1,4 +1,4 @@
-# Retail Sales SQL Analysis Project
+# Retail Sales Analysis Project Using SQL
 
 ## 📘 Project Overview
 This project involves building a SQL-based analytical system to explore and derive insights from a fictional retail sales dataset. The tasks include setting up the database, cleaning the data, performing exploratory data analysis, and solving real-world business problems through SQL queries.
