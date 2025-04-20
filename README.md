@@ -241,6 +241,7 @@ GROUP BY age_group;
 ```
 
 ---
+Power BI Dashboard
 
-
+![image](https://github.com/user-attachments/assets/bd145b1e-c043-4a41-91d1-8baf5fb21fd1)
 
